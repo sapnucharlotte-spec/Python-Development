@@ -81,4 +81,4 @@ Launch with `code --disable-gpu` to work around a GPU rendering issue.
 
 ---
 
-Next: [Install Git](./03-Install-Git.md)
+Next: [Install Git](./03-Virtual-Environment.md)
