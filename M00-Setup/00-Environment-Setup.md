@@ -26,16 +26,17 @@ Work through these in order:
 |---|-------|-----------------|
 | 1 | [Install Python](./01-Install-Python.md) | Download and install Python 3.x |
 | 2 | [Install VS Code](./02-Install-VSCode.md) | Install VS Code and the required extensions |
-| 3 | [Install Git](./03-Install-Git.md) | Install Git and link it to your GitHub account |
-| 4 | [GitHub Classroom](./04-GitHub-Classroom.md) | Accept your first assignment and clone the repo |
-| 5 | [Using Notebooks](./05-Using-Notebooks.md) | Open and run `.ipynb` files — local and online options |
-| 6 | [Submit Your Work](./06-Submit-Push.md) | Commit and push to GitHub |
+| 3 | [Virtual Environment](./03-Virtual-Environment.md) | Install Git and link it to your GitHub account |
+| 4 | [Install Git](./04-Install-Git.md) | Install Git and link it to your GitHub account |
+| 4 | [GitHub Classroom](./05-GitHub-Classroom.md) | Accept your first assignment and clone the repo |
+| 5 | [Using Notebooks](./06-Using-Notebooks.md) | Open and run `.ipynb` files — local and online options |
+| 6 | [Submit Your Work](./07-Submit-Push.md) | Commit and push to GitHub |
 
 ---
 
 ## Stuck?
 
-Check the [Troubleshooting Guide](./07-Troubleshooting.md) first. It covers the most common setup errors for all operating systems.
+Check the [Troubleshooting Guide](./08-Troubleshooting.md) first. It covers the most common setup errors for all operating systems.
 
 If the issue is not listed, post a screenshot in the class MS Teams channel.
 
