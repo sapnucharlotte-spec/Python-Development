@@ -59,7 +59,7 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 
 If this is your first time, begin with the setup guide:
 
-[M00 — Environment Setup](./M00-Setup/Environment-Setup.md)
+[M00 — Environment Setup](./M00-Setup/00-Environment-Setup.md)
 
 Follow all steps before attempting Module 01.
 
