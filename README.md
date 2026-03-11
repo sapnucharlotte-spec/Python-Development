@@ -44,7 +44,7 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 
 | Tool | Purpose |
 |------|---------|
-| [Python 3.x]([https://www.python.org/downloads/](https://www.python.org/downloads/release/python-31210/)) | The programming language |
+| [Python 3.x](https://www.python.org/downloads/release/python-31210/) | The programming language |
 | [VS Code](https://code.visualstudio.com/download) | Primary code editor |
 | [Jupyter Notebooks](https://jupyter.org/try-jupyter/lab/) | Interactive lecture and exercise format |
 | [Git](https://git-scm.com/install/) | Version control |
