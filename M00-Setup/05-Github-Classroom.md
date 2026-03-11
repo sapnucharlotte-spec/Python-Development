@@ -1,7 +1,7 @@
 # 04 — GitHub, Cloning, and Workspace Setup
 ### Python Development | MCC BSIT 2526
 
-[Back to Setup Overview](./README.md)
+[Back to Setup Overview](./00-Environment-Setup.md)
 
 ---
 
@@ -130,7 +130,7 @@ m01-exercises-your-username/
 
 The first time VS Code connects to GitHub, a browser window will open asking you to authorize VS Code. Click **Authorize Visual Studio Code** and follow the prompts.
 
-If the terminal asks for a password, use your Personal Access Token — not your GitHub account password. See [03-Install-Git.md](./03-Install-Git.md) for how to create one.
+If the terminal asks for a password, use your Personal Access Token — not your GitHub account password. See [03-Install-Git.md](./04-Install-Git.md) for how to create one.
 
 ---
 
@@ -154,4 +154,4 @@ Try cloning via the terminal instead of the VS Code interface.
 
 ---
 
-Next: [Using Notebooks](./05-Using-Notebooks.md)
+Next: [Using Notebooks](./06-Using-Notebooks.md)
