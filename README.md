@@ -50,7 +50,7 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 | [Git](https://git-scm.com/install/) | Version control |
 | [GitHub](https://github.com/) | Hosts this repo and your assignment repos |
 | [GitHub Classroom](https://classroom.github.com/classrooms) | Distributes and collects assignments |
-| [GitHub Codespaces](https://github.com/features/codespaces) | Browser-based VS Code — use if you cannot install locally ||
+| [GitHub Codespaces](https://github.com/codespaces) | Browser-based VS Code — use if you cannot install locally ||
 | [MS Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in) | Announcements, theory lectures, and recordings |
 
 ---
