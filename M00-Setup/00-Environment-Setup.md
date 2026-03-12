@@ -37,9 +37,9 @@ Work through these in order:
 | 2 | [Install VS Code](./02-Install-VSCode.md) | Install VS Code and the required extensions |
 | 3 | [Virtual Environment](./03-Virtual-Environment.md) | Setup your first Python Virtual Environment |
 | 4 | [Install Git](./04-Install-Git.md) | Install Git and link it to your GitHub account |
-| 4 | [GitHub Classroom](./05-GitHub-Classroom.md) | Accept your first assignment and clone the repo |
-| 5 | [Using Notebooks](./06-Using-Notebooks.md) | Open and run `.ipynb` files — local and online options |
-| 6 | [Submit Your Work](./07-Submit-Push.md) | Commit and push to GitHub |
+| 5 | [GitHub Classroom](./05-GitHub-Classroom.md) | Accept your first assignment and clone the repo |
+| 6 | [Using Notebooks](./06-Using-Notebooks.md) | Open and run `.ipynb` files — local and online options |
+| 7 | [Submit Your Work](./07-Submit-Push.md) | Commit and push to GitHub |
 
 ---
 
